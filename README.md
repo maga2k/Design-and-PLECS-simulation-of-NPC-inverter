@@ -1,2 +1,2 @@
 # Design-and-PLECS-simulation-of-NPC-inverter
-Design and PLECS simulation of a 20 kW three-phase three-level NPC inverter for a BESS
+Design and simulation of a 20 kW three-phase three-level NPC inverter for a grid-connected Battery Energy Storage System (BESS), using SiC MOSFETS and sinusoidal PWM (Phase Disposition). The system was modeled in PLECS with a 1500 V DC-link and delivers 480 V RMS line-to-line at 60 Hz. Focused on switching and conduction losses, efficiency optimization and THD minimization.
